@@ -1,5 +1,0 @@
-int main()
-{
-  printf("\n Olá Mundo\n");
-  return 0;
-}
